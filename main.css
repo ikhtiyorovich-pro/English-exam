@@ -47,13 +47,59 @@ body{
 
 .first-info-wrapper{
     display: flex;
-    justify-content: space-between;
+    align-items: center;
     text-align: start;
-    margin-top: 20px;
+    margin-top: 30px;
 }
 
 .first-info{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 18px;
-    margin-right: 250px;
+    font-size: 22px;
+    margin-right: 230px;
+}
+
+/* ========================================= */
+
+.second-info-wrapper{
+    display: flex;
+    align-items: center;
+    text-align: start;
+    margin-top: 100px;
+}
+
+.second-info{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 22px;
+    margin-left: 250px;
+}
+
+/* ======================================= */
+
+.third-info-wrapper{
+    display: flex;
+    align-items: center;
+    text-align: start;
+    margin-top: 100px;
+}
+
+.third-info{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 22px;
+    margin-right: 230px;
+}
+
+/* ============================= */
+
+.fourth-info-wrapper{
+    width: 950px;
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+
+.fourth-info{
+    margin-bottom: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 22px;
 }
