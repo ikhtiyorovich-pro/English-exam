@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+body{
+    box-sizing: border-box;
+    background-color: rgba(0, 170, 255, 0.471);
+}
+
+.header{
+    width: 1480px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.header__wrapper_list{
+    list-style: none;
+    padding-top: 12px;
+}
+
+.header__wrapper_list_items{
+    font-family: sans-serif;
+    font-weight: 700;
+    font-size: 45px;
+}
+
+.logo-name-span{
+    display: block;
+    font-size: 20px;
+}
+
+/* ========================== */
+
+.main{
+    width: 1280px;
+    margin: 0 auto;
+    margin-top: 30px;
+    text-align: center;
+}
+
+.site-theme{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 55px;
+    color: rgb(0, 41, 123);
+}
+
+.first-info-wrapper{
+    display: flex;
+    justify-content: space-between;
+    text-align: start;
+    margin-top: 20px;
+}
+
+.first-info{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+    margin-right: 250px;
+}
