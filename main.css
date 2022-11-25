@@ -55,7 +55,7 @@ body{
 .first-info{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 22px;
-    margin-right: 230px;
+    margin-right: 220px;
 }
 
 /* ========================================= */
@@ -70,7 +70,7 @@ body{
 .second-info{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 22px;
-    margin-left: 250px;
+    margin-left: 210px;
 }
 
 /* ======================================= */
@@ -85,12 +85,27 @@ body{
 .third-info{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 22px;
-    margin-right: 230px;
+    margin-right: 260px;
 }
 
-/* ============================= */
+/* ========================================= */
 
 .fourth-info-wrapper{
+    display: flex;
+    align-items: center;
+    text-align: start;
+    margin-top: 100px;
+}
+
+.fourth-info{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 22px;
+    margin-left: 180px;
+}
+
+/* ======================================= */
+
+.fifth-info-wrapper{
     width: 950px;
     margin: 0 auto;
     text-align: center;
@@ -98,7 +113,7 @@ body{
     margin-bottom: 50px;
 }
 
-.fourth-info{
+.fifth-info{
     margin-bottom: 20px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 22px;
