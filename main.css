@@ -57,7 +57,6 @@ body{
     font-size: 22px;
     margin-right: 220px;
 }
-
 /* ========================================= */
 
 .second-info-wrapper{
@@ -107,6 +106,7 @@ body{
 
 .fifth-info-wrapper{
     width: 950px;
+    align-items: center;
     margin: 0 auto;
     text-align: center;
     margin-top: 100px;
@@ -114,6 +114,7 @@ body{
 }
 
 .fifth-info{
+    margin-top: 40px;
     margin-bottom: 20px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 22px;
