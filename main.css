@@ -51,6 +51,12 @@ body{
     text-align: start;
     margin-top: 30px;
 }
+.first-info-wrapper{
+    display: flex;
+    align-items: center;
+    text-align: start;
+    margin-top: 60px;
+}
 
 .first-info{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
